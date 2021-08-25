@@ -6,6 +6,7 @@ import {ReactSearchAutocomplete} from 'react-search-autocomplete'
 
 
 import Cart from './Cart'
+import Cartlist from './Cartlist'
 const Addtocart=()=>{ 
     const [item,setItem]=useState("")
     const {state,dispatch}=useContext(Usercontext)
@@ -42,7 +43,7 @@ const Addtocart=()=>{
                 </div>
 
             </div>
-            <Cart/>
+            <Cartlist/>
         </div>    
     )
 }
