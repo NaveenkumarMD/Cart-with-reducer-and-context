@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/NaveenkumarMD/Cart-with-reducer-and-context/static/css/main.7d180cbf.chunk.css",
+    "main.js": "/NaveenkumarMD/Cart-with-reducer-and-context/static/js/main.09311eda.chunk.js",
+    "main.js.map": "/NaveenkumarMD/Cart-with-reducer-and-context/static/js/main.09311eda.chunk.js.map",
+    "runtime-main.js": "/NaveenkumarMD/Cart-with-reducer-and-context/static/js/runtime-main.f4dfc50d.js",
+    "runtime-main.js.map": "/NaveenkumarMD/Cart-with-reducer-and-context/static/js/runtime-main.f4dfc50d.js.map",
+    "static/js/2.34d2f4b6.chunk.js": "/NaveenkumarMD/Cart-with-reducer-and-context/static/js/2.34d2f4b6.chunk.js",
+    "static/js/2.34d2f4b6.chunk.js.map": "/NaveenkumarMD/Cart-with-reducer-and-context/static/js/2.34d2f4b6.chunk.js.map",
+    "static/js/3.dc4541f3.chunk.js": "/NaveenkumarMD/Cart-with-reducer-and-context/static/js/3.dc4541f3.chunk.js",
+    "static/js/3.dc4541f3.chunk.js.map": "/NaveenkumarMD/Cart-with-reducer-and-context/static/js/3.dc4541f3.chunk.js.map",
+    "index.html": "/NaveenkumarMD/Cart-with-reducer-and-context/index.html",
+    "static/css/main.7d180cbf.chunk.css.map": "/NaveenkumarMD/Cart-with-reducer-and-context/static/css/main.7d180cbf.chunk.css.map",
+    "static/js/2.34d2f4b6.chunk.js.LICENSE.txt": "/NaveenkumarMD/Cart-with-reducer-and-context/static/js/2.34d2f4b6.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/NaveenkumarMD/Cart-with-reducer-and-context/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f4dfc50d.js",
+    "static/js/2.34d2f4b6.chunk.js",
+    "static/css/main.7d180cbf.chunk.css",
+    "static/js/main.09311eda.chunk.js"
+  ]
+}
